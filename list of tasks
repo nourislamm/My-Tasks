@@ -1,0 +1,6 @@
+Model: Main character
+Animation: - idle
+           - walking
+           - celebration when collecting battery
+           - dying
+           - jumping
